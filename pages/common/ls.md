@@ -29,3 +29,7 @@
 - Long format list of all files, sorted by modification date (oldest first):
 
 `ls -lrt`
+
+- 长列表模式显示隐藏文件并按时间排序
+
+`ls -alt`
