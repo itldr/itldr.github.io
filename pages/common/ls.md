@@ -30,6 +30,6 @@
 
 `ls -lrt`
 
-- 长列表模式显示隐藏文件并按时间排序
+- Long list format displays hidden files sorted by time:
 
 `ls -alt`
