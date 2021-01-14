@@ -1,4 +1,4 @@
-﻿# ls
+# ls
 
 > List directory contents.
 
