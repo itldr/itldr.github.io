@@ -1,4 +1,4 @@
-# touch ä¸­æ–‡
+# touch ÖÐÎÄ
 
 > Change a file access and modification times (atime, mtime).
 
