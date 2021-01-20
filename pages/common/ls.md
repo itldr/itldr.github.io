@@ -28,4 +28,4 @@
 
 - Long format list of all files, sorted by modification date (oldest first):
 
-`ls -ltr`
+`ls -lrt`
