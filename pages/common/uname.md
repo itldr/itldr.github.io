@@ -1,20 +1,20 @@
 # uname
 
-> 输出关于当前机器和运行在该机器上的操作系统的详细信息。
-> 注意：如需了解操作系统的其他信息，请尝试使用 `lsb_release` 命令。
+> Print details about the current machine and the operating system running on it.
+> Note: for additional information about the operating system, try the `lsb_release` command.
 
-- 打印硬件相关信息：机器和处理器：
+- Print hardware-related information: machine and processor:
 
 `uname -mp`
 
-- 打印软件相关信息：操作系统、发行号和版本：
+- Print software-related information: operating system, release number, and version:
 
 `uname -srv`
 
-- 打印系统的名称（主机名）：
+- Print the nodename (hostname) of the system:
 
 `uname -n`
 
-- 打印所有可用的系统信息（硬件、软件、名称）：
+- Print all available system information (hardware, software, nodename):
 
 `uname -a`
