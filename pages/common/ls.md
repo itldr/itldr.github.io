@@ -30,7 +30,7 @@
 
 `ls -lrt`
 
-- Long format list of all files（including hidden files）, sorted by modification date (newest first):
+- Long format list of all files(including hidden files), sorted by modification date (newest first):
 
 `ls -alt`
 
