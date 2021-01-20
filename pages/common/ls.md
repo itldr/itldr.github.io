@@ -29,3 +29,8 @@
 - Long format list of all files, sorted by modification date (oldest first):
 
 `ls -lrt`
+
+- Long format list of all files（including hidden files）, sorted by modification date (newest first):
+
+`ls -alt`
+
