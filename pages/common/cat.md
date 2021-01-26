@@ -20,4 +20,4 @@
 
 - Display non-printable and whitespace characters (with `M-` prefix if non-ASCII):
 
-`cat -v -t -e {{file}}`
+`cat -vte {{file}}`
