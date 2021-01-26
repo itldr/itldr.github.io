@@ -21,3 +21,7 @@
 - Display non-printable and whitespace characters (with `M-` prefix if non-ASCII):
 
 `cat -vte {{file}}`
+
+- If you only want to add line numbers to lines that have text, you can use the -b argument.
+
+`cat -b {{file}}`
