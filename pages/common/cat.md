@@ -25,3 +25,7 @@
 - If you only want to add line numbers to lines that have text, you can use the -b argument.
 
 `cat -b {{file}}`
+
+- If you don't want tabs to appear, you can use the -t argument. The -t argument replaces all tabs in the text with the ^I character combination.
+
+`cat -T {{file}}`
