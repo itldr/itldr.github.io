@@ -34,3 +34,6 @@
 
 `ps -ef | grep {{string}}` 
 
+- One really nice feature of GNU's long parameters is the forest parameter.It displays the hierarchy information of the process.
+
+` ps --forest | grep {{string}}`
