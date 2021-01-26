@@ -29,3 +29,8 @@
 - Sort processes by memory consumption:
 
 `ps --sort size`
+
+- View all processes running on the system. The -e parameter specifies that all processes running on the system are displayed.The -f parameter extends the output,and search for a process that matches a string.
+
+`ps -ef | grep {{string}}` 
+
