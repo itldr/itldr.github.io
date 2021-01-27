@@ -34,3 +34,7 @@
 - Sort numbers with exponents:
 
 `sort --general-numeric-sort {{path/to/file}}`
+
+- Sort by month.
+
+`sort -M {{file}}`
