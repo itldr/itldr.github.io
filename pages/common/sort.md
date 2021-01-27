@@ -38,3 +38,8 @@
 - Sort by month.
 
 `sort -M {{file}}`
+
+- The -n argument is useful for sorting numeric values, such as the output of the du command.the -r parameter prints the results in descending order, making it easier to see which files in the directory take up the most space.
+
+`du -sh * | sort -nr`
+
