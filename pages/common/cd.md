@@ -1,4 +1,4 @@
-# cd   中文
+# cd   中文  %E4%B8%AD
 
 > Change the current working directory.
 
