@@ -1,4 +1,4 @@
-<meta charset=gb2312>
+<meta charset=utf-8>
 
 
 # cd      &#x6C49;&#x5B57;
