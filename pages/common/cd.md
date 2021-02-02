@@ -1,4 +1,4 @@
-# cd   汉字  
+# cd      &#x6C49;&#x5B57;
 
 > Change the current working directory.
 
