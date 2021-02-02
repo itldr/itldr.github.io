@@ -1,4 +1,5 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset=utf-8">
+
 
 # cd      &#x6C49;&#x5B57;
 
