@@ -1,3 +1,5 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 # cd      &#x6C49;&#x5B57;
 
 > Change the current working directory.
@@ -17,3 +19,5 @@
 - Go to the previously chosen directory:
 
 `cd -`
+
+汉字
