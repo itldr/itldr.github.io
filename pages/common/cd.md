@@ -1,7 +1,7 @@
 <meta charset=utf-8>
 
 
-# cd      &#x6C49;&#x5B57;       汉字
+# cd      &#x6C49;&#x5B57;     姹夊瓧   
 
 > Change the current working directory.
 
