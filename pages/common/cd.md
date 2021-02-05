@@ -1,7 +1,7 @@
 <meta charset=utf-8>
 
 
-# cd     ÖÐÎÄ
+# cd     ä¸­æ–‡
 
 > Change the current working directory.
 
