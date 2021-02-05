@@ -1,23 +1,19 @@
-<meta charset=utf-8>
+# cd
 
+> 更改当前工作目录.
 
-# cd     中文
+- 转到指定目录:
 
-> Change the current working directory.
+`cd {{路径}}`
 
-- Go to the given directory:
-
-`cd {{path/to/directory}}`
-
-- Go to home directory of current user:
+- 转到当前用户的主（home）目录:
 
 `cd`
 
-- Go up to the parent of the current directory:
+- 转到当前目录的父目录:
 
 `cd ..`
 
-- Go to the previously chosen directory:
+- 转到刚才选择的目录:
 
 `cd -`
-
