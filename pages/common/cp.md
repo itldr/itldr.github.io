@@ -64,7 +64,7 @@ cp(选项)(参数)
 
 通常来说，参数 `-r` 也可用更详细的风格 `--recursive`。但是以简短的方式，也可以这么连用 `-ruv`。
 
-```shell
+```
 cp -r -u -v /usr/men/tmp ~/men/tmp
 ```
 
