@@ -35990,7 +35990,7 @@ var buildState = function buildState(_ref7) {
 
   var options = {
     branch: params.index.branch,
-    repository: 'tldr-pages/tldr',
+    repository: 'itldr/itldr.github.io',
     timeout: 5000
   };
   return (0, _Page2.default)(options).get(params.command);
