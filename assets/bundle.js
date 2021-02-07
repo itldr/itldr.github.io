@@ -36486,7 +36486,7 @@ exports.default = function (_ref) {
     "a",
     { href: "https://mixpanel.com/f/partner", rel: "nofollow" },
     _react2.default.createElement("img", {
-      src: "./asset/badge_blue.png",
+      src: "assets/badge_blue.png",
       alt: "Mobile Analytics"
     })
   );
