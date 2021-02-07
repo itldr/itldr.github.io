@@ -9,7 +9,16 @@ cp
 
 ###  语法 
 
-```shell
+```bash
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee555
+
+```
+
+```
+
+
+​```bash
 cp(选项)(参数)
 ```
 
