@@ -36105,7 +36105,7 @@ function _toConsumableArray(arr) {
   }
 }
 
-var Version = "3.8.0-fix";
+var Version = "";
 var Revision = "518dc95e017f7317af1a394c6e56f56b89fff2e0";
 
 /*******************************************************************************
@@ -36486,7 +36486,7 @@ exports.default = function (_ref) {
     "a",
     { href: "https://mixpanel.com/f/partner", rel: "nofollow" },
     _react2.default.createElement("img", {
-      src: "assets/badge_blue.png",
+      src: "//cdn.mxpnl.com/site_media/images/partner/badge_" + color + ".png",
       alt: "Mobile Analytics"
     })
   );
