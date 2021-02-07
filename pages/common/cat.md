@@ -4,7 +4,7 @@
 
 - Print the contents of a file to the standard output:
 
-`cat {{file}}`
+`cat {{file}}   long long long long long long long long long long long long long long long long long long long long long long long long long`
 
 - Concatenate several files into the target file:
 
