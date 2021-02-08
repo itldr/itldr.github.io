@@ -10546,7 +10546,7 @@ MixpanelLib.prototype.push = function(item) {
  */
 MixpanelLib.prototype.disable = function(events) {
     if (typeof(events) === 'undefined') {
-        this._flags.disable_all_events = false;
+        this._flags.disable_all_events = true;
     } else {
         this.__disabled_events = this.__disabled_events.concat(events);
     }
