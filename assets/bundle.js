@@ -36552,7 +36552,7 @@ exports.default = function (_ref) {
         "section",
         { className: "search" },
         _react2.default.createElement("input", {
-          autofocus: true,
+          autoFocus: true,
           tabIndex: "100",
           type: "text",
           onChange: function onChange(_ref2) {
