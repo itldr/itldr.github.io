@@ -36733,12 +36733,12 @@ exports.default = function() {
             padding: "10px"
         },
         href: "https://github.com/ostera/tldr.jsx"
-    }, "tldr.jsx"), ", thanks to the authors of both projects!👈"," xxxxxxxx", _react2.default.createElement("a", {
+    }, "tldr.jsx"), ", thanks to the authors of both projects!","The normal display of Chinese is attributed to ", _react2.default.createElement("a", {
         style: {
             padding: "10px"
         },
-        href: "https://github.com/ostera/tldr.jsx"
-    }, "@bl-ue"), ", thanks to the authors of both projects!👈"
+        href: "https://github.com/bl-ue/tldr.jsx/tree/allow-all-unicode-characters-issue167"
+    }, "@bl-ue"), "!👈"
 	)))
 };
  
