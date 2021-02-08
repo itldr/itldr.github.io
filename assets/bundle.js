@@ -36663,7 +36663,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  * Public API
  *******************************************************************************/
 
-exports.default = function () {
+/* exports.default = function () {
   return _react2.default.createElement(
     "div",
     null,
@@ -36706,7 +36706,37 @@ exports.default = function () {
     )
   );
 };
-
+ */
+ 
+ exports.default = function() {
+    return _react2.default.createElement("div", null, _react2.default.createElement("section", {
+        style: {
+            margin: "10px auto",
+            color: "#001d15",
+            textAlign: "center",
+            display: "inline-flex",
+            justifyContent: "center",
+            flexWrap: "wrap",
+            width: "100%"
+        }
+    }, _react2.default.createElement("span", {
+        style: {
+            padding: "10px"
+        }
+    }, "👉This page is forked from ", _react2.default.createElement("a", {
+        style: {
+            padding: "10px"
+        },
+        href: "https://github.com/tldr-pages/tldr"
+    }, "tldr"), " and ", _react2.default.createElement("a", {
+        style: {
+            padding: "10px"
+        },
+        href: "https://github.com/ostera/tldr.jsx"
+    }, "tldr.jsx"), ", thanks to the authors of both projects!👈")))
+};
+ 
+ 
 /*******************************************************************************
  * Imports
  *******************************************************************************/
@@ -37152,4 +37182,4 @@ exports.default = function (props) {
 };
 
 },{"./components/Debug":266,"./components/Footer":267,"./components/Nav":272,"./components/NotFound":273,"./components/PatreonBar":274,"./components/TldrPage":276,"./components/Welcome":278,"react":182,"react-dom":36}]},{},[265])
-//# sourceMappingURL=bundle.js.map
+/* //# sourceMappingURL=bundle.js.map */
