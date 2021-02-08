@@ -36733,7 +36733,7 @@ exports.default = function() {
             padding: "10px"
         },
         href: "https://github.com/ostera/tldr.jsx"
-    }, "tldr.jsx"), ",thank them!","The normal display of Chinese is attributed to ", _react2.default.createElement("a", {
+    }, "tldr.jsx"), ",Thank them!","The normal display of Chinese is attributed to ", _react2.default.createElement("a", {
         style: {
             padding: "10px"
         },
