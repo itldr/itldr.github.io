@@ -36105,7 +36105,7 @@ function _toConsumableArray(arr) {
   }
 }
 
-var Version = "3.8.0-1-gd1efe52";
+var Version = "3.8.0-fix";
 var Revision = "d1efe52eb77bde1b179f4eb0780f2060847ba199";
 
 /*******************************************************************************
