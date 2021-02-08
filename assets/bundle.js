@@ -36708,7 +36708,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 };
  */
  
- exports.default = function() {
+exports.default = function() {
     return _react2.default.createElement("div", null, _react2.default.createElement("section", {
         style: {
             margin: "10px auto",
@@ -36733,7 +36733,13 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
             padding: "10px"
         },
         href: "https://github.com/ostera/tldr.jsx"
-    }, "tldr.jsx"), ", thanks to the authors of both projects!👈")))
+    }, "tldr.jsx"), ", thanks to the authors of both projects!👈"," xxxxxxxx", _react2.default.createElement("a", {
+        style: {
+            padding: "10px"
+        },
+        href: "https://github.com/ostera/tldr.jsx"
+    }, "@bl-ue"), ", thanks to the authors of both projects!👈"
+	)))
 };
  
  
