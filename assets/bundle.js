@@ -36484,7 +36484,7 @@ exports.default = function (_ref) {
   var color = _ref.color;
   return _react2.default.createElement(
     "a",
-    { href: "https://mixpanel.com/f/partner", rel: "nofollow" },
+    { href: "https://itldr.github.io", rel: "nofollow" },
     _react2.default.createElement("img", {
       src: "assets/tldr.svg",
       alt: "Mobile Analytics"
