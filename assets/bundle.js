@@ -35902,7 +35902,7 @@ var toCommand = function toCommand(location) {
 var toIndex = function toIndex(location) {
   return Object.assign({
     branch: 'master',
-    repository: 'tldr-pages/tldr-pages.github.io',
+    repository: 'itldr/itldr.github.io',
     timeout: 5000
   }, (0, _queryString.parse)(location.search));
 };
