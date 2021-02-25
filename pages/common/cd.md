@@ -1,6 +1,6 @@
 # cd
 
-```c
+```shell
 This is a very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very long piece of code.
 ```
 
