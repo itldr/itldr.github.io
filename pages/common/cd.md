@@ -1,54 +1,19 @@
 # cd
 
-Let's say this is a long, long piece of shell code.
+> Change the current working directory.
 
-```shell
-echo "This is a very, very, very, very, very, very, very, very, very, 
-very, very, very, very, very, very, very, very, very, very, very, very, 
+- Go to the given directory:
 
+`cd {{path/to/directory}}`
 
-very, very, very, very, very, very, very, very, very, very, very, very, 
-
-very, very, very, very, very, very, very, very, very, very, very, very, very, very long piece of code."
-```
-
-Let's say this is a very long command.
-
-`echo "It was a very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very long command."`
-
-
-
-
-
-```shell 
-fdasf
-```
-
-
-
-
-
-
-
-
-
-
-> 更改当前工作目录.
-
-- 转到指定目录:
-
-`cd {{路径}}`
-
-- 转到当前用户的主（home）目录:
+- Go to home directory of current user:
 
 `cd`
 
-- 转到当前目录的父目录:
+- Go up to the parent of the current directory:
 
 `cd ..`
 
-- 转到刚才选择的目录:
+- Go to the previously chosen directory:
 
 `cd -`
-
-中文
