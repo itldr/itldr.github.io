@@ -1,5 +1,11 @@
 # cd
 
+```shell
+This is a very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very long piece of code.
+```
+
+
+
 > 更改当前工作目录.
 
 - 转到指定目录:
